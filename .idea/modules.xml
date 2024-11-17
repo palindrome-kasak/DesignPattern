@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstDesignPattern1/HeadFirstDesignPattern1.iml" filepath="$PROJECT_DIR$/HeadFirstDesignPattern1/HeadFirstDesignPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObeseverDesignPattern/ObeseverDesignPattern.iml" filepath="$PROJECT_DIR$/ObeseverDesignPattern/ObeseverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPatternEp-1/StrategyPatternEp-1.iml" filepath="$PROJECT_DIR$/StrategyPatternEp-1/StrategyPatternEp-1.iml" />
+    </modules>
+  </component>
+</project>
