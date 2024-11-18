@@ -5,6 +5,5 @@
     <mapping directory="$PROJECT_DIR$/HeadFirstDesignPattern1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StrategyPattern" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StrategyPatternEp-1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/systemDesignPatterns" vcs="Git" />
   </component>
 </project>

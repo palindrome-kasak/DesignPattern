@@ -20,6 +20,8 @@ public class Main {
         iphoneStockObersable.add(ob3);
 
         iphoneStockObersable.setStockCount((10));
+        iphoneStockObersable.setStockCount((0));
+        iphoneStockObersable.setStockCount((100));
         System.out.println("end world!f xcv");
     }
 }

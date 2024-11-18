@@ -16,6 +16,6 @@ public class EmailAlertObserverImpl implements NotificationAlertObserver{
     }
 
     private void sendMail(String emailId, String msg) {
-        System.out.println("main sent to :" + emailId);
+        System.out.println("mail sent to :" + emailId);
     }
 }
