@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97dd07bf-5626-4d81-8a1e-b7dfeddf2541" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/modules.xml" afterDir="false" />
@@ -82,7 +86,7 @@
     "last_opened_file_path": "C:/Devlopment/JavaProjectsAndcode/DesignPattern"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DecoratorDesignPattern" />
@@ -97,6 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AbstractFactoryPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ObeseverDesignPattern" />
@@ -106,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
