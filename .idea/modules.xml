@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ObeseverDesignPattern/ObeseverDesignPattern.iml" filepath="$PROJECT_DIR$/ObeseverDesignPattern/ObeseverDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPatternEp-1/StrategyPatternEp-1.iml" filepath="$PROJECT_DIR$/StrategyPatternEp-1/StrategyPatternEp-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToaLLD_Lec-7/TicTacToaLLD_Lec-7.iml" filepath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/TicTacToaLLD_Lec-7.iml" />
     </modules>
   </component>
 </project>

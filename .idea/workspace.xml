@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97dd07bf-5626-4d81-8a1e-b7dfeddf2541" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/EconomicCar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/LuxaryCar2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/modules.xml" afterDir="false" />
@@ -44,6 +34,15 @@
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/NormalDriveDtstegy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/StrategyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/TicTacToaLLD_Lec-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PeiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPieceO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPieceX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/PeiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,6 +55,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +78,7 @@
   "keyToString": {
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
