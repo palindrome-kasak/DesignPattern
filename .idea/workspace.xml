@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97dd07bf-5626-4d81-8a1e-b7dfeddf2541" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/BasePizza/BasePizzzzzzaaaaa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/BasePizza/FarmHousePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/BasePizza/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/BasePizza/VegDelightPizzaa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/Toppings/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/Toppings/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorDesignPattern/src/Toppings/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Square.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern1/.idea/modules.xml" afterDir="false" />
@@ -43,10 +41,7 @@
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/NormalDriveDtstegy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/StrategyPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObeseverDesignPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObeseverDesignPattern/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObeseverDesignPattern/src/Observer/EmailAlertObserverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObeseverDesignPattern/src/Observer/EmailAlertObserverImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +63,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2oyeCiKVAQsERNcZPdyErH7Qw6Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,17 +73,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Devlopment/JavaProjectsAndcode/DesignPattern"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DecoratorDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FactoryPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
