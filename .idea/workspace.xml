@@ -34,16 +34,6 @@
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/NormalDriveDtstegy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/StrategyPatternEp-1/src/Strategy/StrategyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/TicTacToaLLD_Lec-7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PeiceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPieceO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/Model/PlayingPieceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/PeiceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToaLLD_Lec-7/src/TicTacToeGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
